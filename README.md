@@ -56,8 +56,7 @@ Declination Motor Mount - QTY 1
 ## Purchased Items
 Stepper Motor - NEMA 17 - 0.9deg - 2.0A [Stepper Online](https://www.omc-stepperonline.com/full-d-cut-shaft-nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-9v-42x42x48mm-4-wires-17hm19-2004s1)
 
-Stepper Driver [Source]([This Option Looks Good](https://www.pololu.com/product/3764)
-)
+Stepper Driver [Source](https://www.pololu.com/product/3764)
 
 5mm Shaft Ball Bearings - QTY 12 [McMaster-Carr](https://www.mcmaster.com/7804K109/)
 
