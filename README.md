@@ -30,3 +30,9 @@ Stock Resolution 20 Arc Seconds Per Step.
 @1/64 Microsteps: 0.3125 Arc Seconds Per Step
 
 @1/128 Microsteps: 0.15625 Arc Seconds Per Step
+
+# Part List
+The mount uses a combination of purchased steel parts, fabricated aluminum(cut/bend), and 3D printed parts. With a bit of work, I may be able to replace some of the gearbox planes with either carbon fiber, or 3D printed to reduce cost and weight.
+
+## Cut/Bent - (Flat Files) - SendCutSent
+
